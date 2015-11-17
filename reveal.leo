@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1"><vh>@settings</vh>
+<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -43,7 +43,7 @@
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
+<v t="amd.20150913233943.1" a="E"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
@@ -68,7 +68,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
@@ -268,7 +268,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -286,7 +286,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
